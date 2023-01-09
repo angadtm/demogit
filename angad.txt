@@ -1,0 +1,99 @@
+    1  cd Desktop/ mkdir putty
+    2  cd Desktop$ mkdir putty
+    3  cd /Desktop mkdir putty
+    4  $ cd desktop/
+    5  cd desktop
+    6  cd Desktop
+    7  mkfir putty
+    8  mkdir putty
+    9  cd putty
+   10  ip config
+   11  ip status
+   12  ip address
+   13  sudo apt update
+   14  cd admin:///root/bashcrawl/entrance 
+   15  sudo root
+   16  sudoapt-get install openssh-server -y
+   17  sudo apt-get install openssh-server -y
+   18  apt-get install openssh-server -y
+   19  sudo apt-get install openssh-server -y
+   20  su root
+   21  grep '^sudo' /etc/group
+   22  su root
+   23  whoami
+   24  su root
+   25  code excercise1
+   26  sudo snap install code
+   27  nano exercise
+   28  ls
+   29  cd 'Scripting P-1'
+   30  cd lessons
+   31  wc file
+   32  ls
+   33  cd ..
+   34  we lessons
+   35  wc lessons
+   36  count
+   37  wc -l
+   38  cd lessons
+   39  wc -l
+   40  wc -1
+   41  tree lessons
+   42  sudo apt install tree
+   43  tree lessons
+   44  cd ..
+   45  tree lessons
+   46  hostname
+   47  cd ..
+   48  cd angad-bash
+   49  cd angad_bash
+   50  ls
+   51  cd Angad_bash
+   52  chmod 755 exercise3.sh
+   53  ./exercise3.sh
+   54  chmod 755 exercise4.sh
+   55  ./exercise4.sh
+   56  -f /etc/shadow
+   57  -d /etc/shadow
+   58  -d "/etc/shadow"
+   59  help
+   60  -d
+   61  -d help
+   62  -w
+   63  sudo -d
+   64  -R
+   65  -R help
+   66  sudo -e -R
+   67  ./exercise4.sh
+   68  sudo -D /etc/shadows
+   69  sudo -D 
+   70  -D
+   71  chmod 755 exercise5.sh
+   72  ./exercise5.sh
+   73  what is
+   74  -e
+   75  file -v
+   76  -v
+   77  file -f
+   78  git init demogit
+   79  ls
+   80  cd 
+   81  git init demogit
+   82  git status
+   83  cd demogit
+   84  git status
+   85  gedit readme.md
+   86  git add readme.md
+   87  git commit -m "Initial commit"
+   88  git log
+   89  git show
+   90  git add readme.md
+   91  git commit -m "Second commit"
+   92  git log
+   93  git diff 5400196cc80cb9fb230430c34a1b0873d6a25286  54057e0a67ee586ba84b0a68fd551e5d6ee1c349
+   94  git remote add origin https://github.com/angadtm/demogit.git
+   95  git branch -M main
+   96  git push -u origin main
+   97  history >angad.txt
+   98  ls
+   99  history >angad.txt
